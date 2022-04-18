@@ -6,5 +6,5 @@
 
 ## 2. Notes
 
- - Init: go mod init <app-name/>;
+ - Init: go mod init \<app-name\>;
  - Packages: [link](https://pkg.go.dev/std).
